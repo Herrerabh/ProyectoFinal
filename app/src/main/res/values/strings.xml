@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ProyectoFinal</string>
+    <string name="login_usuario">Usuario</string>
+    <string name="login_contraseña">Contraseña</string>
+    <string name="registro_correo">Correo</string>
+    <string name="registro_usuario">Usuario</string>
+    <string name="registro_contraseña">Contraseña</string>
+    <string name="registro_nombre">Nombre</string>
+    <string name="registro_apellido">Apellido</string>
+</resources>
